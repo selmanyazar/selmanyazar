@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm selmanyazar</h1>
+<h1 align="center">Selman YAZAR</h1>
 <h3 align="center">I'm from Türkiye</h3>
 
 <h3 align="left">Connect with me:</h3>
